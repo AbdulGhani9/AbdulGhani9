@@ -1,4 +1,4 @@
-![logo](https://github.com/AbdulGhani9/AbdulGhani9/blob/main/Your%20paragraph%20text%20(1).png)
+![logo](https://github.com/AbdulGhani9/AbdulGhani9/blob/main/Your%20paragraph%20text.mp4)
 <h1 align="center">Hi 👋, I'm Abdul Ghani</h1>
 <h3 align="center">A passionate Flutter Developer from Pakistan</h3>
 
