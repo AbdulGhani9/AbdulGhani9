@@ -15,8 +15,7 @@
 <a href="https://linkedin.com/in/abdulghani99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulghani99" height="30" width="40" /></a>
 <a href="https://instagram.com/ghanisheikh87@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghanisheikh87@gmail.com" height="30" width="40" /></a>
 
-  <a href="https://stackoverflow.com/users/22246424/sheikh-ghani" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/424e7e51-809a-44d4-befd-2c0b0fedc188)
-" alt="StackOverflow" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22246424/sheikh-ghani" target="blank">My Stack Overflow Account</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
