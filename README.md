@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **dart, Flutter, Firebase, RestApi, State Management, html, CSS, Java Script, Python, Java, MySQL, BSCS**
 
 - 📫 How to reach me **ghanisheikh87@gmail.com**
-- <p> My GitHub Repo's 
-<a href="https://github.com/AbdulGhani9?tab=repositories"></a>
-</p>
+
+<a href="https://github.com/AbdulGhani9?tab=repositories">My Github Repo's</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
